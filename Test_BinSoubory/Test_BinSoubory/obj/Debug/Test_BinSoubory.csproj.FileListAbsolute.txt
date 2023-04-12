@@ -1,0 +1,10 @@
+G:\PRG\C#\Test_BinSoubory\Test_BinSoubory\bin\Debug\Test_BinSoubory.exe.config
+G:\PRG\C#\Test_BinSoubory\Test_BinSoubory\bin\Debug\Test_BinSoubory.exe
+G:\PRG\C#\Test_BinSoubory\Test_BinSoubory\bin\Debug\Test_BinSoubory.pdb
+G:\PRG\C#\Test_BinSoubory\Test_BinSoubory\obj\Debug\Test_BinSoubory.csprojAssemblyReference.cache
+G:\PRG\C#\Test_BinSoubory\Test_BinSoubory\obj\Debug\Test_BinSoubory.Form1.resources
+G:\PRG\C#\Test_BinSoubory\Test_BinSoubory\obj\Debug\Test_BinSoubory.Properties.Resources.resources
+G:\PRG\C#\Test_BinSoubory\Test_BinSoubory\obj\Debug\Test_BinSoubory.csproj.GenerateResource.cache
+G:\PRG\C#\Test_BinSoubory\Test_BinSoubory\obj\Debug\Test_BinSoubory.csproj.CoreCompileInputs.cache
+G:\PRG\C#\Test_BinSoubory\Test_BinSoubory\obj\Debug\Test_BinSoubory.exe
+G:\PRG\C#\Test_BinSoubory\Test_BinSoubory\obj\Debug\Test_BinSoubory.pdb
