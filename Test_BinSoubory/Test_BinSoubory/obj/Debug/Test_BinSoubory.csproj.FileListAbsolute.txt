@@ -8,3 +8,14 @@ G:\PRG\C#\Test_BinSoubory\Test_BinSoubory\obj\Debug\Test_BinSoubory.csproj.Gener
 G:\PRG\C#\Test_BinSoubory\Test_BinSoubory\obj\Debug\Test_BinSoubory.csproj.CoreCompileInputs.cache
 G:\PRG\C#\Test_BinSoubory\Test_BinSoubory\obj\Debug\Test_BinSoubory.exe
 G:\PRG\C#\Test_BinSoubory\Test_BinSoubory\obj\Debug\Test_BinSoubory.pdb
+C:\Users\tonda\Source\Repos\Test_BinSoubory\Test_BinSoubory\Test_BinSoubory\bin\Debug\Test_BinSoubory.exe.config
+C:\Users\tonda\Source\Repos\Test_BinSoubory\Test_BinSoubory\Test_BinSoubory\bin\Debug\Test_BinSoubory.exe
+C:\Users\tonda\Source\Repos\Test_BinSoubory\Test_BinSoubory\Test_BinSoubory\bin\Debug\Test_BinSoubory.pdb
+C:\Users\tonda\Source\Repos\Test_BinSoubory\Test_BinSoubory\Test_BinSoubory\obj\Debug\Test_BinSoubory.csproj.AssemblyReference.cache
+C:\Users\tonda\Source\Repos\Test_BinSoubory\Test_BinSoubory\Test_BinSoubory\obj\Debug\Test_BinSoubory.csproj.SuggestedBindingRedirects.cache
+C:\Users\tonda\Source\Repos\Test_BinSoubory\Test_BinSoubory\Test_BinSoubory\obj\Debug\Test_BinSoubory.Form1.resources
+C:\Users\tonda\Source\Repos\Test_BinSoubory\Test_BinSoubory\Test_BinSoubory\obj\Debug\Test_BinSoubory.Properties.Resources.resources
+C:\Users\tonda\Source\Repos\Test_BinSoubory\Test_BinSoubory\Test_BinSoubory\obj\Debug\Test_BinSoubory.csproj.GenerateResource.cache
+C:\Users\tonda\Source\Repos\Test_BinSoubory\Test_BinSoubory\Test_BinSoubory\obj\Debug\Test_BinSoubory.csproj.CoreCompileInputs.cache
+C:\Users\tonda\Source\Repos\Test_BinSoubory\Test_BinSoubory\Test_BinSoubory\obj\Debug\Test_BinSoubory.exe
+C:\Users\tonda\Source\Repos\Test_BinSoubory\Test_BinSoubory\Test_BinSoubory\obj\Debug\Test_BinSoubory.pdb

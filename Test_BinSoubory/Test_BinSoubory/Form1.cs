@@ -96,5 +96,35 @@ namespace Test_BinSoubory
                 MessageBox.Show("Zadejte kolik známek chcete zadat, a jméno.");
             }
         }
+
+        private void button3_MouseEnter(object sender, EventArgs e)
+        {
+            button3.ForeColor = Color.Gold;
+        }
+
+        private void button3_MouseLeave(object sender, EventArgs e)
+        {
+            button3.ForeColor = Color.LawnGreen;
+        }
+
+        private void button1_MouseEnter(object sender, EventArgs e)
+        {
+            button1.ForeColor = Color.Gold;
+        }
+
+        private void button1_MouseLeave(object sender, EventArgs e)
+        {
+            button1.ForeColor = Color.LawnGreen;
+        }
+
+        private void button2_MouseEnter(object sender, EventArgs e)
+        {
+            button2.ForeColor = Color.Gold;
+        }
+
+        private void button2_MouseLeave(object sender, EventArgs e)
+        {
+            button2.ForeColor = Color.LawnGreen;
+        }
     }
 }
